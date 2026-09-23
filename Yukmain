@@ -1,0 +1,35 @@
+Bertindaklah sebagai Expert Frontend Web Developer dan UI/UX Designer yang berpengalaman membuat landing page produk anak-anak yang berfokus pada penjualan (high-converting sales page). 
+
+Tolong buatkan kode lengkap dan utuh untuk satu file tunggal "index.html" yang modern, responsif (mobile-friendly), estetis, dan menggunakan styling Tailwind CSS (via CDN) serta Google Fonts (misalnya font Poppins atau Inter).
+
+Landing page ini dibuat untuk memasarkan produk "Mainan Peri Terbang (Flying Fairy Toy)". Masukkan seluruh informasi konten di bawah ini ke dalam struktur website secara rapi dan menarik:
+
+1. HERO SECTION (Bagian Utama / Perkenalan):
+- Tagline Utama: Mainan peri yang bisa terbang sendiri!
+- Sub-headline: Si kecil pasti penasaran saat melihat peri ini melayang di udara.
+- Deskripsi singkat: Tinggal nyalakan, lalu biarkan si peri terbang dan berputar dengan seru!
+- Tombol CTA (Call to Action) yang mencolok.
+
+2. SECTION FITUR PRODUK (Gunakan grid/card dengan ikon yang relevan):
+- Bisa terbang/melayang setelah dinyalakan.
+- Berputar saat terbang, membuat permainan lebih menarik.
+- Mudah digunakan, cocok untuk aktivitas bermain sederhana.
+- Desain peri yang menarik dan cocok sebagai hadiah.
+- Menggunakan USB (Rechargeable).
+
+3. SECTION MANFAAT / VALUE (Keunggulan emosional bagi anak dan orang tua):
+- Membuat anak lebih antusias bermain karena ada efek terbang.
+- Memberikan pengalaman bermain yang berbeda dari mainan biasa.
+- Bisa menjadi aktivitas bermain bersama orang tua, sambil tetap diawasi.
+- Cocok sebagai hadiah ulang tahun atau kejutan untuk anak.
+- Membantu menciptakan pengalaman bermain yang menyenangkan dan imajinatif.
+
+4. SECTION PENUTUP / FINAL CTA:
+- Poin pendukung: Cocok untuk menemani waktu bermain anak | Bisa jadi pilihan hadiah untuk anak | Bikin waktu bermain jadi lebih menyenangkan.
+- Kalimat Persuasif Utama (Highlight Banner/CTA): "Jangan cuma dilihat… kalau si kecil suka, langsung cek produknya ya!" (Dilengkapi tombol aksi/link pembelian).
+
+Persyaratan Desain:
+- Gunakan skema warna yang ceria, ajaib, dan ramah anak (seperti kombinasi warna pastel lembut, pink muda, ungu muda/lavender, dan putih).
+- Pastikan tata letak (layout) bersih, memiliki jarak (whitespace) yang nyaman dibaca, serta tombol-tombolnya interaktif (efek hover).
+- Berikan kodenya dalam blok kode HTML tunggal (`<!DOCTYPE html>...`) sehingga saya bisa langsung menyalinnya dan menyimpannya sebagai file index.html.
+
